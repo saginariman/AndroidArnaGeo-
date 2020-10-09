@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "835504710816",
+    "firebase_url": "https://androidarna-geo.firebaseio.com",
+    "project_id": "androidarna-geo",
+    "storage_bucket": "androidarna-geo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835504710816:android:5e262947368426607d95c5",
+        "android_client_info": {
+          "package_name": "ru.androidarna.androidarnageo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835504710816-1o64ch1pfbpjkhrrb8koh5qs29kguite.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.androidarna.androidarnageo",
+            "certificate_hash": "87d9901117de97ff2b8f90006164237560e8e091"
+          }
+        },
+        {
+          "client_id": "835504710816-m8ed0d1va60lgotihss5krfghougtsv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1dDz0PF-mx7S36eR3aQejmD6HY8jB5PY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835504710816-m8ed0d1va60lgotihss5krfghougtsv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

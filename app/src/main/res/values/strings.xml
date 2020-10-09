@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidArna Geo</string>
+    <string name="app_name_after">Register App</string>
+    <string name="text_bottom">Войдите свою учетную запись!</string>
+    <string name="btnSignIn">Войти</string>
+    <string name="btnRegister">Зарегистрироваться</string>
+</resources>
